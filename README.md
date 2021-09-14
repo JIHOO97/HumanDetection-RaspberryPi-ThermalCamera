@@ -8,7 +8,7 @@ detect people even when there is no lights.
 
 ## Hardware
 - Raspberry Pi 4 (4GB RAM is used)
-- two MLX90640 (thermal camera)
+- Two MLX90640 (thermal camera)
 - mini HDMI cable
 
 ## Raspberry Pi Setup
