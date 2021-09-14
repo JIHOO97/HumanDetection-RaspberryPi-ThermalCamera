@@ -90,7 +90,7 @@ Positive and negative images were splitted and stored in separate folders.
 
 Layers | Activation function | Loss function | Optimizer | Epochs
 ------------ | ------------- | ------------- | ------------- | -------------
-Three fully connected layers | RELU | categorical-crossentropy | Adam | 15
+Three fully connected layers | RELU | categorical-crossentropy | Adam | 10
 
 **Test Accuracy:** 96.8%
 
