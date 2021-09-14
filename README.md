@@ -40,4 +40,32 @@ make clean
 make bcm2835
 make I2C_MODE=LINUX examples/rawrgb
 ```
+3. Install additional dependencies and libraries
+```
+[sudo] apt-get install python3-numpy \
+  libatlas-base-dev \
+  libblas-dev \
+  liblapack-dev \
+  python3-dev \
+  gfortran \
+  python3-setuptools \
+  python3-scipy \
+  python3-h5py
+```
+
+```
+# For image manipulation
+[sudo] pip install opencv
+
+# Install Jupyter notebook to run the training code
+[sudo] pip install jupyterlab
+# Then follow the instructions at https://jupyter.org/install
+
+# Tensorflow framework for machine learning and utilities
+[sudo] pip install tensorflow numpy matplotlib
+
+# Clone my repository with the image and training utilities
+# and the Jupyter notebooks that we'll use for training.
+git clone https://github.com/BlackLight/imgdetect-utils ~/projects/imgdetect-utils
+```
 
