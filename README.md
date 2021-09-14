@@ -101,6 +101,6 @@ Using the model created in the previous step, we were able to detect people in r
 We used multiple thermal cameras to increase the view of the robot(MLX90640 has a 110degree view)
 
 ## References
-[Detect people with a RaspberryPi, a thermal camera, Platypush and Tensorflow](https://blog.platypush.tech/article/Detect-people-with-a-RaspberryPi-a-thermal-camera-Platypush-and-a-pinch-of-machine-learning)
-[How to setup Raspberry Pi](https://www.youtube.com/watch?v=BpJCAafw2qE&t=1055s)
-[High Resolution Thermal Camera with Raspberry Pi and MLX90640](https://makersportal.com/blog/2020/6/8/high-resolution-thermal-camera-with-raspberry-pi-and-mlx90640)
+1. [Detect people with a RaspberryPi, a thermal camera, Platypush and Tensorflow](https://blog.platypush.tech/article/Detect-people-with-a-RaspberryPi-a-thermal-camera-Platypush-and-a-pinch-of-machine-learning)
+2. [How to setup Raspberry Pi](https://www.youtube.com/watch?v=BpJCAafw2qE&t=1055s)
+3. [High Resolution Thermal Camera with Raspberry Pi and MLX90640](https://makersportal.com/blog/2020/6/8/high-resolution-thermal-camera-with-raspberry-pi-and-mlx90640)
