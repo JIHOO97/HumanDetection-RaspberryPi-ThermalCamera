@@ -16,7 +16,7 @@ detect people even when there is no lights.
 
 1. Download NOOBS and set up Raspbian operating system. Follow this [link](https://www.youtube.com/watch?v=BpJCAafw2qE&t=1055s)
 2. Install the required modules and setup the I2C interface to connect MLX90640
-'''
+```
 # Install the dependencies
 [sudo] apt-get install libi2c-dev
 
@@ -39,5 +39,5 @@ cd mlx90640-library
 make clean
 make bcm2835
 make I2C_MODE=LINUX examples/rawrgb
-'''
+```
 
