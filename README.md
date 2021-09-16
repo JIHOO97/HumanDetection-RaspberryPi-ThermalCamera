@@ -9,7 +9,7 @@ detect people even when there is no lights.
 ## Hardware
 - Raspberry Pi 4 (4GB RAM is used)
 - Two MLX90640 (thermal camera)
-- ini HDMI cable
+- Mini HDMI cable
 
 ## Raspberry Pi Setup
 **Reference:** [Detect people with a RaspberryPi, a thermal camera, Platypush and Tensorflow](https://blog.platypush.tech/article/Detect-people-with-a-RaspberryPi-a-thermal-camera-Platypush-and-a-pinch-of-machine-learning)
